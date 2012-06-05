@@ -141,12 +141,12 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  capybara (= 1.1.2)
-  coffee-rails (= 3.2.2)
-  jquery-rails (= 2.0.0)
+  capybara
+  coffee-rails
+  jquery-rails
   pg
   rails (= 3.2.3)
-  rspec-rails (= 2.10.0)
-  sass-rails (= 3.2.4)
-  sqlite3 (= 1.3.5)
-  uglifier (= 1.2.3)
+  rspec-rails
+  sass-rails
+  sqlite3
+  uglifier
