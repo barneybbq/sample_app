@@ -36,32 +36,42 @@
 	},
 	"file_history":
 	[
+		"/home/mark/Documents/RoR_projects/sample_app/spec/models/user_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/lib/tasks/sample_data.rake",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/factories.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/_user.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/db/migrate/20120629181803_add_admin_to_users.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/index.html.erb",
+		"/home/mark/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/mark/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/mark/Documents/RoR_projects/sample_app/Gemfile",
+		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/users_helper.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/home/mark/.bash_profile",
+		"/home/mark/.bash_login",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/edit.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/support/utilities.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/features/step_definitions/authentication_steps.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/features/signin_in.feature",
-		"/home/mark/Documents/RoR_projects/sample_app/Gemfile",
-		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/user_pages_spec.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/_header.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/users_controller.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/sessions_helper.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/sessions_controller.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/assets/javascripts/application.js",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/sessions/new.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/authentication_pages_spec.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/models/user.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/application_controller.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/spec/models/user_spec.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/new.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/config/routes.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/application.html.erb.REMOTE.5936.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/application.html.erb.REMOTE.956.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/users_helper.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/db/migrate/20120622055835_add_remember_token_to_users.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/config/environments/production.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/show.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/application.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_error_messages.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/spec/factories.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/config/environments/test.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/.rspec",
 		"/usr/share/applications/defaults.list",
@@ -147,8 +157,104 @@
 		"selected_items":
 		[
 			[
+				"auth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_us",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"usepa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			],
+			[
+				"samp",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"addad",
+				"db/migrate/20120629181803_add_admin_to_users.rb"
+			],
+			[
+				"usesp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"index",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"inde",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"userpa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
 				"gem",
 				"Gemfile"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"usershel",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sessi",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessiohe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"session",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"authe",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"userc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
+			],
+			[
+				"userspe",
+				"spec/requests/user_pages_spec.rb"
 			],
 			[
 				"sess",
@@ -159,20 +265,12 @@
 				"app/views/layouts/_header.html.erb"
 			],
 			[
-				"usercon",
-				"app/controllers/users_controller.rb"
-			],
-			[
 				"sesshe",
 				"app/helpers/sessions_helper.rb"
 			],
 			[
 				"sessionhe",
 				"app/helpers/sessions_helper.rb"
-			],
-			[
-				"userco",
-				"app/controllers/users_controller.rb"
 			],
 			[
 				"userpage",
@@ -183,28 +281,12 @@
 				"app/assets/javascripts/application.js"
 			],
 			[
-				"_hea",
-				"app/views/layouts/_header.html.erb"
-			],
-			[
-				"sessiohe",
-				"app/helpers/sessions_helper.rb"
-			],
-			[
 				"user",
 				"app/models/user.rb"
 			],
 			[
-				"userspe",
-				"spec/models/user_spec.rb"
-			],
-			[
 				"appliccon",
 				"app/controllers/application_controller.rb"
-			],
-			[
-				"sessi",
-				"app/controllers/sessions_controller.rb"
 			],
 			[
 				"new",
@@ -225,10 +307,6 @@
 			[
 				"rout",
 				"config/routes.rb"
-			],
-			[
-				"authe",
-				"spec/requests/authentication_pages_spec.rb"
 			],
 			[
 				"appli",
@@ -277,10 +355,6 @@
 			[
 				"ge",
 				"Gemfile"
-			],
-			[
-				"cust",
-				"app/assets/stylesheets/custom.css.scss"
 			],
 			[
 				"custo",
@@ -333,6 +407,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 291.0,
+	"side_bar_width": 182.0,
 	"status_bar_visible": true
 }
