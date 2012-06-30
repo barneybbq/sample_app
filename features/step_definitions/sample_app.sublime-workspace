@@ -157,6 +157,14 @@
 		"selected_items":
 		[
 			[
+				"sam",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"usesp",
+				"spec/models/user_spec.rb"
+			],
+			[
 				"auth",
 				"spec/requests/authentication_pages_spec.rb"
 			],
@@ -183,10 +191,6 @@
 			[
 				"addad",
 				"db/migrate/20120629181803_add_admin_to_users.rb"
-			],
-			[
-				"usesp",
-				"spec/models/user_spec.rb"
 			],
 			[
 				"index",
