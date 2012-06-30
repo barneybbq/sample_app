@@ -36,42 +36,56 @@
 	},
 	"file_history":
 	[
-		"/home/mark/Documents/RoR_projects/sample_app/spec/models/user_spec.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/lib/tasks/sample_data.rake",
-		"/home/mark/Documents/RoR_projects/sample_app/spec/factories.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/_user.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/user_pages_spec.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/micropost_pages_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/microposts_controller.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/microposts/_micropost.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_feed_item.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/models/user_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/models/user.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_feed.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/edit.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/sessions/new.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/new.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_user_info.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/config/routes.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/show.html.erb",
+		"/home/mark/Documents/RoR_projects/sample_app/lib/tasks/sample_data.rake",
+		"/home/mark/Documents/RoR_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/models/micropost_spec.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/models/micropost.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/spec/factories.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/config/application.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/db/migrate/20120630065422_create_microposts.rb",
+		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/_user.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/db/migrate/20120629181803_add_admin_to_users.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/index.html.erb",
 		"/home/mark/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/mark/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/mark/Documents/RoR_projects/sample_app/Gemfile",
-		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/sessions_helper.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/_header.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/helpers/users_helper.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/sessions_controller.rb",
 		"/home/mark/.bash_profile",
 		"/home/mark/.bash_login",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/edit.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/spec/support/utilities.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/features/step_definitions/authentication_steps.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/features/signin_in.feature",
 		"/home/mark/Documents/RoR_projects/sample_app/app/assets/javascripts/application.js",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/sessions/new.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/models/user.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/controllers/application_controller.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/new.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/config/routes.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/application.html.erb.REMOTE.5936.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/application.html.erb.REMOTE.956.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/db/migrate/20120622055835_add_remember_token_to_users.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/config/environments/production.rb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/users/show.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/app/views/layouts/application.html.erb",
-		"/home/mark/Documents/RoR_projects/sample_app/app/views/shared/_error_messages.html.erb",
 		"/home/mark/Documents/RoR_projects/sample_app/config/environments/test.rb",
 		"/home/mark/Documents/RoR_projects/sample_app/.rspec",
 		"/usr/share/applications/defaults.list",
@@ -157,8 +171,124 @@
 		"selected_items":
 		[
 			[
+				"micc",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"micpa",
+				"spec/requests/micropost_pages_spec.rb"
+			],
+			[
+				"feedi",
+				"app/views/shared/_feed_item.html.erb"
+			],
+			[
+				"micht",
+				"app/views/microposts/_micropost.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"statpac",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"statsp",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"use",
+				"app/models/user.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"edi",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"erro",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"stat",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"ho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sesshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"aut",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
 				"sam",
 				"lib/tasks/sample_data.rake"
+			],
+			[
+				"",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"usepa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			],
+			[
+				"userspe",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"m",
+				"app/models/micropost.rb"
+			],
+			[
+				"micrspe",
+				"spec/models/micropost_spec.rb"
+			],
+			[
+				"creatm",
+				"db/migrate/20120630065422_create_microposts.rb"
 			],
 			[
 				"usesp",
@@ -169,20 +299,8 @@
 				"spec/requests/authentication_pages_spec.rb"
 			],
 			[
-				"userco",
-				"app/controllers/users_controller.rb"
-			],
-			[
 				"_us",
 				"app/views/users/_user.html.erb"
-			],
-			[
-				"usepa",
-				"spec/requests/user_pages_spec.rb"
-			],
-			[
-				"fact",
-				"spec/factories.rb"
 			],
 			[
 				"samp",
@@ -257,20 +375,12 @@
 				"spec/support/utilities.rb"
 			],
 			[
-				"userspe",
-				"spec/requests/user_pages_spec.rb"
-			],
-			[
 				"sess",
 				"app/helpers/sessions_helper.rb"
 			],
 			[
 				"hea",
 				"app/views/layouts/_header.html.erb"
-			],
-			[
-				"sesshe",
-				"app/helpers/sessions_helper.rb"
 			],
 			[
 				"sessionhe",
@@ -281,20 +391,8 @@
 				"spec/requests/user_pages_spec.rb"
 			],
 			[
-				"appl",
-				"app/assets/javascripts/application.js"
-			],
-			[
-				"user",
-				"app/models/user.rb"
-			],
-			[
 				"appliccon",
 				"app/controllers/application_controller.rb"
-			],
-			[
-				"new",
-				"app/views/sessions/new.html.erb"
 			],
 			[
 				"hear",
@@ -319,10 +417,6 @@
 			[
 				"a",
 				"app/views/layouts/application.html.erb.REMOTE.5936.erb"
-			],
-			[
-				"usersp",
-				"spec/models/user_spec.rb"
 			],
 			[
 				"us",
@@ -353,10 +447,6 @@
 				"app/views/layouts/application.html.erb"
 			],
 			[
-				"cus",
-				"app/assets/stylesheets/custom.css.scss"
-			],
-			[
 				"ge",
 				"Gemfile"
 			],
@@ -375,14 +465,6 @@
 			[
 				"testr",
 				"config/environments/test.rb"
-			],
-			[
-				"show",
-				"app/views/users/show.html.erb"
-			],
-			[
-				"",
-				".rspec"
 			],
 			[
 				"usercont",
